@@ -1,0 +1,512 @@
+{
+  "questions": [
+    {
+      "question": "Hi",
+      "answer": "Hello"
+    },
+    {
+      "question": "How are you",
+      "answer": "Fine"
+    },
+    {
+      "question": "hi",
+      "answer": "hi"
+    },
+    {
+      "question": "hellow",
+      "answer": "hi"
+    },
+    {
+      "question": "hellow",
+      "answer": "hellow my friend"
+    },
+    {
+      "question": "you know who am i",
+      "answer": "I'm Omar"
+    },
+    {
+      "question": "you know who am i",
+      "answer": "you are Omar"
+    },
+    {
+      "question": "you know who am i",
+      "answer": ""
+    },
+    {
+      "question": "Welcome",
+      "answer": "Welcome!"
+    },
+    {
+      "question": "what is your favorite team",
+      "answer": "El Ahly is my favorite team"
+    },
+    {
+      "question": "What is the capital of France?",
+      "answer": "The capital of France is Paris."
+    },
+    {
+      "question": "Who wrote 'Pride and Prejudice'?",
+      "answer": "Jane Austen wrote 'Pride and Prejudice'."
+    },
+    {
+      "question": "What is the boiling point of water?",
+      "answer": "The boiling point of water is 100\u00c2\u00b0C or 212\u00c2\u00b0F at standard atmospheric pressure."
+    },
+    {
+      "question": "Who is the CEO of Tesla?",
+      "answer": "Elon Musk is the CEO of Tesla."
+    },
+    {
+      "question": "What is the tallest mountain in the world?",
+      "answer": "Mount Everest is the tallest mountain in the world."
+    },
+    {
+      "question": "Who painted the Mona Lisa?",
+      "answer": "Leonardo da Vinci painted the Mona Lisa."
+    },
+    {
+      "question": "What is the chemical symbol for gold?",
+      "answer": "The chemical symbol for gold is Au."
+    },
+    {
+      "question": "How many continents are there?",
+      "answer": "There are seven continents."
+    },
+    {
+      "question": "What is the largest ocean on Earth?",
+      "answer": "The Pacific Ocean is the largest ocean on Earth."
+    },
+    {
+      "question": "Who developed the theory of relativity?",
+      "answer": "Albert Einstein developed the theory of relativity."
+    },
+    {
+      "question": "What is the square root of 64?",
+      "answer": "The square root of 64 is 8."
+    },
+    {
+      "question": "What is the capital of Japan?",
+      "answer": "The capital of Japan is Tokyo."
+    },
+    {
+      "question": "Who discovered penicillin?",
+      "answer": "Alexander Fleming discovered penicillin."
+    },
+    {
+      "question": "What is the speed of light?",
+      "answer": "The speed of light is approximately 299,792 kilometers per second (186,282 miles per second)."
+    },
+    {
+      "question": "What is the largest planet in our solar system?",
+      "answer": "Jupiter is the largest planet in our solar system."
+    },
+    {
+      "question": "Who is known as the Father of Computers?",
+      "answer": "Charles Babbage is known as the Father of Computers."
+    },
+    {
+      "question": "What is the formula for calculating the area of a circle?",
+      "answer": "The formula for the area of a circle is \u00cf\u20acr\u00c2\u00b2, where r is the radius."
+    },
+    {
+      "question": "What is the main ingredient in guacamole?",
+      "answer": "The main ingredient in guacamole is avocado."
+    },
+    {
+      "question": "What is the largest desert in the world?",
+      "answer": "The largest desert in the world is the Antarctic Desert."
+    },
+    {
+      "question": "Who invented the telephone?",
+      "answer": "Alexander Graham Bell invented the telephone."
+    },
+    {
+      "question": "What is the currency of the United Kingdom?",
+      "answer": "The currency of the United Kingdom is the British Pound Sterling (\u00c2\u00a3)."
+    },
+    {
+      "question": "What is the hardest natural substance on Earth?",
+      "answer": "Diamond is the hardest natural substance on Earth."
+    },
+    {
+      "question": "What is the chemical formula for water?",
+      "answer": "The chemical formula for water is H\u00e2\u201a\u201aO."
+    },
+    {
+      "question": "Who is considered the father of Artificial Intelligence?",
+      "answer": "John McCarthy is considered the father of Artificial Intelligence."
+    },
+    {
+      "question": "What does AI stand for?",
+      "answer": "AI stands for Artificial Intelligence."
+    },
+    {
+      "question": "What is machine learning?",
+      "answer": "Machine learning is a subset of AI that involves training algorithms to learn from and make predictions on data."
+    },
+    {
+      "question": "What is deep learning?",
+      "answer": "Deep learning is a subset of machine learning that uses neural networks with many layers."
+    },
+    {
+      "question": "What is a neural network?",
+      "answer": "A neural network is a series of algorithms that attempt to recognize underlying relationships in a set of data through a process that mimics the way the human brain operates."
+    },
+    {
+      "question": "What is natural language processing?",
+      "answer": "Natural language processing (NLP) is a branch of AI that deals with the interaction between computers and humans using natural language."
+    },
+    {
+      "question": "Who won the FIFA World Cup in 2018?",
+      "answer": "France won the FIFA World Cup in 2018."
+    },
+    {
+      "question": "Who is considered the greatest footballer of all time?",
+      "answer": "This is subjective, but many consider Pel\u00c3\u00a9, Diego Maradona, and Lionel Messi among the greatest."
+    },
+    {
+      "question": "Which club has won the most UEFA Champions League titles?",
+      "answer": "Real Madrid has won the most UEFA Champions League titles."
+    },
+    {
+      "question": "Who holds the record for the most goals in a single Premier League season?",
+      "answer": "Erling Haaland holds the record for the most goals in a single Premier League season."
+    },
+    {
+      "question": "What is an offside in football?",
+      "answer": "A player is in an offside position if they are nearer to their opponent's goal line than both the ball and the second last opponent when the ball is played to them, unless they are in their own half of the field."
+    },
+    {
+      "question": "Who won the Ballon d'Or in 2022?",
+      "answer": "Karim Benzema won the Ballon d'Or in 2022."
+    },
+    {
+      "question": "Which country has won the most World Cups?",
+      "answer": "Brazil has won the most World Cups, with a total of 5 victories."
+    },
+    {
+      "question": "What is the role of a goalkeeper in football?",
+      "answer": "The goalkeeper's main role is to prevent the opposing team from scoring by catching, palming, or punching the ball away from the goal."
+    },
+    {
+      "question": "Who is the all-time top scorer in the UEFA Champions League?",
+      "answer": "Cristiano Ronaldo is the all-time top scorer in the UEFA Champions League."
+    },
+    {
+      "question": "What is the Golden Boot award?",
+      "answer": "The Golden Boot is awarded to the top goal scorer in a football league or tournament."
+    },
+    {
+      "question": "Which football club is known as 'The Red Devils'?",
+      "answer": "Manchester United is known as 'The Red Devils'."
+    },
+    {
+      "question": "What is a hat-trick in football?",
+      "answer": "A hat-trick occurs when a player scores three goals in a single game."
+    },
+    {
+      "question": "Who won the UEFA Euro 2020?",
+      "answer": "Italy won the UEFA Euro 2020."
+    },
+    {
+      "question": "What is a penalty kick?",
+      "answer": "A penalty kick is awarded for a foul committed inside the penalty area and is taken from the penalty spot."
+    },
+    {
+      "question": "Who is known as 'The King of Football'?",
+      "answer": "Pel\u00c3\u00a9 is often referred to as 'The King of Football'."
+    },
+    {
+      "question": "What is the role of a midfielder in football?",
+      "answer": "A midfielder's role is to link the defense and the attack, often involved in passing, tackling, and maintaining possession."
+    },
+    {
+      "question": "What is an algorithm?",
+      "answer": "An algorithm is a step-by-step procedure for solving a problem or accomplishing some end."
+    },
+    {
+      "question": "What is a binary tree?",
+      "answer": "A binary tree is a tree data structure in which each node has at most two children, referred to as the left child and the right child."
+    },
+    {
+      "question": "What is Big O notation?",
+      "answer": "Big O notation is a mathematical notation used to describe the upper bound of an algorithm's running time or space requirements in terms of the size of the input data."
+    },
+    {
+      "question": "What is a compiler?",
+      "answer": "A compiler is a program that translates source code written in a high-level programming language into machine code that can be executed by a computer's CPU."
+    },
+    {
+      "question": "What is a database?",
+      "answer": "A database is an organized collection of structured information, or data, typically stored electronically in a computer system."
+    },
+    {
+      "question": "What is SQL?",
+      "answer": "SQL (Structured Query Language) is a standard programming language for managing and manipulating databases."
+    },
+    {
+      "question": "What is cloud computing?",
+      "answer": "Cloud computing is the delivery of computing services over the internet, including storage, processing, and software, on a pay-as-you-go basis."
+    },
+    {
+      "question": "What is the Internet of Things (IoT)?",
+      "answer": "The Internet of Things (IoT) refers to the network of physical devices, vehicles, appliances, and other items embedded with sensors, software, and connectivity to exchange data with other devices and systems over the internet."
+    },
+    {
+      "question": "What is blockchain?",
+      "answer": "Blockchain is a distributed ledger technology that allows data to be stored globally on thousands of servers while letting anyone on the network see everyone else's entries in real-time."
+    },
+    {
+      "question": "What is quantum computing?",
+      "answer": "Quantum computing is an area of computing focused on developing computer technology based on the principles of quantum theory, which explains the behavior of energy and material on the atomic and subatomic levels."
+    },
+    {
+      "question": "Hi",
+      "answer": "Hello"
+    },
+    {
+      "question": "How are you",
+      "answer": "Fine"
+    },
+    {
+      "question": "hi",
+      "answer": "hi"
+    },
+    {
+      "question": "hellow",
+      "answer": "hi"
+    },
+    {
+      "question": "hellow",
+      "answer": "hellow my friend"
+    },
+    {
+      "question": "you know who am i",
+      "answer": "I'm Omar"
+    },
+    {
+      "question": "you know who am i",
+      "answer": "you are Omar"
+    },
+    {
+      "question": "you know who am i",
+      "answer": ""
+    },
+    {
+      "question": "Welcome",
+      "answer": "Welcome!"
+    },
+    {
+      "question": "what is your favorite team",
+      "answer": "El Ahly is my favorite team"
+    },
+    {
+      "question": "What is the capital of France?",
+      "answer": "The capital of France is Paris."
+    },
+    {
+      "question": "Who wrote 'Pride and Prejudice'?",
+      "answer": "Jane Austen wrote 'Pride and Prejudice'."
+    },
+    {
+      "question": "What is the boiling point of water?",
+      "answer": "The boiling point of water is 100\u00c2\u00b0C or 212\u00c2\u00b0F at standard atmospheric pressure."
+    },
+    {
+      "question": "Who is the CEO of Tesla?",
+      "answer": "Elon Musk is the CEO of Tesla."
+    },
+    {
+      "question": "What is the tallest mountain in the world?",
+      "answer": "Mount Everest is the tallest mountain in the world."
+    },
+    {
+      "question": "Who painted the Mona Lisa?",
+      "answer": "Leonardo da Vinci painted the Mona Lisa."
+    },
+    {
+      "question": "What is the chemical symbol for gold?",
+      "answer": "The chemical symbol for gold is Au."
+    },
+    {
+      "question": "How many continents are there?",
+      "answer": "There are seven continents."
+    },
+    {
+      "question": "What is the largest ocean on Earth?",
+      "answer": "The Pacific Ocean is the largest ocean on Earth."
+    },
+    {
+      "question": "Who developed the theory of relativity?",
+      "answer": "Albert Einstein developed the theory of relativity."
+    },
+    {
+      "question": "What is the square root of 64?",
+      "answer": "The square root of 64 is 8."
+    },
+    {
+      "question": "What is the capital of Japan?",
+      "answer": "The capital of Japan is Tokyo."
+    },
+    {
+      "question": "Who discovered penicillin?",
+      "answer": "Alexander Fleming discovered penicillin."
+    },
+    {
+      "question": "What is the speed of light?",
+      "answer": "The speed of light is approximately 299,792 kilometers per second (186,282 miles per second)."
+    },
+    {
+      "question": "What is the largest planet in our solar system?",
+      "answer": "Jupiter is the largest planet in our solar system."
+    },
+    {
+      "question": "Who is known as the Father of Computers?",
+      "answer": "Charles Babbage is known as the Father of Computers."
+    },
+    {
+      "question": "What is the formula for calculating the area of a circle?",
+      "answer": "The formula for the area of a circle is \u00cf\u20acr\u00c2\u00b2, where r is the radius."
+    },
+    {
+      "question": "What is the main ingredient in guacamole?",
+      "answer": "The main ingredient in guacamole is avocado."
+    },
+    {
+      "question": "What is the largest desert in the world?",
+      "answer": "The largest desert in the world is the Antarctic Desert."
+    },
+    {
+      "question": "Who invented the telephone?",
+      "answer": "Alexander Graham Bell invented the telephone."
+    },
+    {
+      "question": "What is the currency of the United Kingdom?",
+      "answer": "The currency of the United Kingdom is the British Pound Sterling (\u00c2\u00a3)."
+    },
+    {
+      "question": "What is the hardest natural substance on Earth?",
+      "answer": "Diamond is the hardest natural substance on Earth."
+    },
+    {
+      "question": "What is the chemical formula for water?",
+      "answer": "The chemical formula for water is H\u00e2\u201a\u201aO."
+    },
+    {
+      "question": "Who is considered the father of Artificial Intelligence?",
+      "answer": "John McCarthy is considered the father of Artificial Intelligence."
+    },
+    {
+      "question": "What does AI stand for?",
+      "answer": "AI stands for Artificial Intelligence."
+    },
+    {
+      "question": "What is machine learning?",
+      "answer": "Machine learning is a subset of AI that involves training algorithms to learn from and make predictions on data."
+    },
+    {
+      "question": "What is deep learning?",
+      "answer": "Deep learning is a subset of machine learning that uses neural networks with many layers."
+    },
+    {
+      "question": "What is a neural network?",
+      "answer": "A neural network is a series of algorithms that attempt to recognize underlying relationships in a set of data through a process that mimics the way the human brain operates."
+    },
+    {
+      "question": "What is natural language processing?",
+      "answer": "Natural language processing (NLP) is a branch of AI that deals with the interaction between computers and humans using natural language."
+    },
+    {
+      "question": "Who won the FIFA World Cup in 2018?",
+      "answer": "France won the FIFA World Cup in 2018."
+    },
+    {
+      "question": "Who is considered the greatest footballer of all time?",
+      "answer": "This is subjective, but many consider Pel\u00c3\u00a9, Diego Maradona, and Lionel Messi among the greatest."
+    },
+    {
+      "question": "Which club has won the most UEFA Champions League titles?",
+      "answer": "Real Madrid has won the most UEFA Champions League titles."
+    },
+    {
+      "question": "Who holds the record for the most goals in a single Premier League season?",
+      "answer": "Erling Haaland holds the record for the most goals in a single Premier League season."
+    },
+    {
+      "question": "What is an offside in football?",
+      "answer": "A player is in an offside position if they are nearer to their opponent's goal line than both the ball and the second last opponent when the ball is played to them, unless they are in their own half of the field."
+    },
+    {
+      "question": "Who won the Ballon d'Or in 2022?",
+      "answer": "Karim Benzema won the Ballon d'Or in 2022."
+    },
+    {
+      "question": "Which country has won the most World Cups?",
+      "answer": "Brazil has won the most World Cups, with a total of 5 victories."
+    },
+    {
+      "question": "What is the role of a goalkeeper in football?",
+      "answer": "The goalkeeper's main role is to prevent the opposing team from scoring by catching, palming, or punching the ball away from the goal."
+    },
+    {
+      "question": "Who is the all-time top scorer in the UEFA Champions League?",
+      "answer": "Cristiano Ronaldo is the all-time top scorer in the UEFA Champions League."
+    },
+    {
+      "question": "What is the Golden Boot award?",
+      "answer": "The Golden Boot is awarded to the top goal scorer in a football league or tournament."
+    },
+    {
+      "question": "Which football club is known as 'The Red Devils'?",
+      "answer": "Manchester United is known as 'The Red Devils'."
+    },
+    {
+      "question": "What is a hat-trick in football?",
+      "answer": "A hat-trick occurs when a player scores three goals in a single game."
+    },
+    {
+      "question": "Who won the UEFA Euro 2020?",
+      "answer": "Italy won the UEFA Euro 2020."
+    },
+    {
+      "question": "What is a penalty kick?",
+      "answer": "A penalty kick is awarded for a foul committed inside the penalty area and is taken from the penalty spot."
+    },
+    {
+      "question": "Who is known as 'The King of Football'?",
+      "answer": "Pel\u00c3\u00a9 is often referred to as 'The King of Football'."
+    },
+    {
+      "question": "What is the role of a midfielder in football?",
+      "answer": "A midfielder's role is to link the defense and the attack, often involved in passing, tackling, and maintaining possession."
+    },
+    {
+      "question": "What is an algorithm?",
+      "answer": "An algorithm is a step-by-step procedure for solving a problem or accomplishing some end."
+    },
+    {
+      "question": "What is a binary tree?",
+      "answer": "A binary tree is a tree data structure in which each node has at most two children, referred to as the left child and the right child."
+    },
+    {
+      "question": "What is Big O notation?",
+      "answer": "Big O notation is a mathematical notation used to describe the upper bound of an algorithm's running time or space requirements in terms of the size of the input data."
+    },
+    {
+      "question": "what are you doing",
+      "answer": "Nothing and you"
+    },
+    {
+      "question": "king of football",
+      "answer": "Cristiano Ronaldo"
+    },
+    {
+      "question": "AI",
+      "answer": "Artificial Intelligance"
+    },
+    {
+      "question": "can you help me",
+      "answer": "sure I can"
+    }
+  ]
+}
